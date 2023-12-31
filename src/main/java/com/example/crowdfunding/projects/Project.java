@@ -2,7 +2,7 @@ package com.example.crowdfunding.projects;
 
 import com.example.crowdfunding.categories.Categories;
 import com.example.crowdfunding.members.Member;
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,6 +1,6 @@
 package com.example.crowdfunding.admins;  // Updated package name to match the regex
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.*;
 
 @Entity

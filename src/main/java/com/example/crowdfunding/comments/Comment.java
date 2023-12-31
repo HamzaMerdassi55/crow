@@ -2,7 +2,7 @@ package com.example.crowdfunding.comments;
 
 import com.example.crowdfunding.members.Member;
 import com.example.crowdfunding.projects.Project;
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.*;
 
 @Entity

@@ -1,7 +1,7 @@
 package com.example.crowdfunding.passswordreset;
 
 import com.example.crowdfunding.members.Member;
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 

@@ -1,6 +1,6 @@
 package com.example.crowdfunding.members;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.*;
 
 @Entity
